@@ -14,6 +14,9 @@ Recomendo a utilização de um ambiente virtual, no meu caso o virtualenvwrapper
 ```
 mkvirtualenv nome -p python3.6
 ```
+## Créditos para: Samhita Alla
+
+https://codeburst.io/building-your-first-chat-application-using-flask-in-7-minutes-f98de4adfa5d
 
 ## Dúvidas
 
